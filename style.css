@@ -1,0 +1,81 @@
+.container {
+    margin: 20px;
+}
+
+.section-one {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.section-one__title {
+    font-size: 50px;
+    padding-top: 20px;
+}
+
+.section-one__desc {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.section-two,
+.section-three,
+.section-four,
+.section-five {
+    display: inline-block;
+    border: solid blueviolet 1px;
+    font-size: 10px;
+    text-align: center;
+    font-size: 10px;
+    padding-bottom: 10px;
+}
+
+.img-one,
+.img-two,
+.img-three,
+.img-four {
+    height: 400px;
+    width: 300px;
+
+}
+
+.container-one {
+    text-align: center;
+}
+
+.button-one,
+.button-two,
+.button-three,
+.button-four {
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.section-six {
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.table {
+    display: inline-block;
+    text-align: center;
+}
+
+.table-one {
+    font-size: 30px;
+}
+
+.table-two {
+    background-color: yellow;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
